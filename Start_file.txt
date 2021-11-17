@@ -1,2 +1,5 @@
 This is my 10-fingers taped file.
 I study Git for improve my skill.
+
+Location2:
+I wanna to know Git mechanics very well.
