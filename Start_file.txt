@@ -3,3 +3,6 @@ I study Git for improve my skill.
 
 Location1: 
 I wrote these words for testing git update mechanics.
+
+Location2:
+I wanna to know Git mechanics very well.
