@@ -1,0 +1,2 @@
+This is my 10-fingers taped file.
+I study Git for improve my skill.
